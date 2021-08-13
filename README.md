@@ -1,4 +1,7 @@
-# Frontend Mentor - Huddle landing page with single introductory section
+
+
+# Frontend Mentor - Huddle landing page with single introductory section. View project here https://senciz.github.io/Huddle/
+
 
 ![Design preview for the Huddle landing page with single introductory section](./design/desktop-preview.jpg)
 
